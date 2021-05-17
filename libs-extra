@@ -1,0 +1,12 @@
+alpine-sdk (abuild, build-base, ca-certificates, git, curl, tar, ...)
+build-base (binutils, file, fortify-headers, g++, gcc, ibc-dev, make, patch, ...)
+gnupg
+wget
+jq
+openssh
+cmake
+autoconf
+automake
+linux-headers
+nasm
+python3 python3-dev py3-configobj py3-pip py3-setuptools      
